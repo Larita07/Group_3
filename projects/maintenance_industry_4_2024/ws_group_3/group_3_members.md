@@ -7,3 +7,4 @@
 | Juan Ignacio Baserga | N | juan-ignacio.baserga@student-cs.fr |
 | Beatriz Fernandes Raposo | N | beatriz.fernandes-raposo@student-cs.fr|
 | Giovanni Low | N | wsgiovanni.low@student-cs.fr|
+
